@@ -1,0 +1,39 @@
+body {
+    background: lightblue;
+}
+.container {
+    text-align: center;
+    margin-top: 24px;
+    
+}
+table {
+    margin: auto;
+}
+input {
+    font-size: 30px;
+    border: 2px green;
+    border-radius: 12px;
+    outline: none;
+    margin: 10px;
+    height: 48px;
+}
+button {
+    font-size: 40px;
+    background: rgb(199, 197, 197);
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    margin-top: 8px;
+    margin-left: 4px;
+}
+button:hover {
+    background: lightslategray;
+}
+.calc {
+    border: 3px solid red;
+    display: inline-block;
+    padding: 16px;
+    background: rgb(119, 236, 115);
+    border-radius: 20px;
+}
